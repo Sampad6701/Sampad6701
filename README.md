@@ -1,16 +1,21 @@
-## Hi there 👋
+# Sampad Mahanty
+- Sixth-semester CSE undergraduate at Institute of Technical Education and Research (ITER), Bhubaneswar.
+- Focused on building practical software tools that address real-world problems and improve quality of life.
+- Currently strengthening core computer science fundamentals and applied engineering skills.
 
-<!--
-**Sampad6701/Sampad6701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Focus
+- Strengthening Data Structures and ALgoritms.
+- Developing applied machine learning models for real-world use cases.
+- Learning Rust and systems programming.
+- Exploring backend architecture and Linux internals.
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Languages:** Java, Python, C, JavaScript, Rust (basic)
+- **Frontend:** HTML, CSS, React.js, Next.js
+- **Backend:** Node.js, Express.js (basic)
+- **Machine Learning:** Applied Machine Learning (Coursework & Experiments)
+- **Tools:** GitHub, Docker (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **LinkedIn:** https://www.linkedin.com/in/sampad-mahanty
+- **E-mail:** sampadmahanty1@gmail.com
