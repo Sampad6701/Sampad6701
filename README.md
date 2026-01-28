@@ -4,7 +4,7 @@
 - Currently strengthening core computer science fundamentals and applied engineering skills.
 
 ## Current Focus
-- Strengthening Data Structures and ALgoritms.
+- Strengthening Data Structures and Algoritms.
 - Developing applied machine learning models for real-world use cases.
 - Learning Rust and systems programming.
 - Exploring backend architecture and Linux internals.
