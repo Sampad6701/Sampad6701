@@ -1,5 +1,5 @@
 # Sampad Mahanty
-- Sixth-semester CSE undergraduate at Institute of Technical Education and Research (ITER), Bhubaneswar.
+- Final Year CSE undergraduate at Institute of Technical Education and Research (ITER), Bhubaneswar.
 - Focused on building practical software tools that address real-world problems and improve quality of life.
 - Currently strengthening core computer science fundamentals and applied engineering skills.
 
